@@ -12,10 +12,10 @@ So, we use bag of words technique, where more emphasis is given to the words wit
 
 Created different Jupyter files where I tried different **ML Algorithms** to enhance the accuracy.The following alogrithms were used:
 
-- LogisticRegression
-- Naive Bayes
-- Support Vector Machine
-- TF-IDF Vectorizer
+- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+- [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+- [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine)
+- [TF-IDF Vectorizer](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 
 ## Process
 
